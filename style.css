@@ -1,5 +1,5 @@
 /*
-Theme Name: JG_THEME_Bio
+Theme Name: joyeria-guerrero-temaWP
 Theme URI: 
 Author: bluuweb
 Author URI: 
@@ -17,11 +17,14 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .wp-block-search__label{
   display: none;
 }
-titulos{
-  display: none;
+
+.body{
+  background: red;
 }
-
-
+#customer_details{
+  background-color: aqua;
+  
+}
 /* Calendario */
 /* calendar widget */
 .widget_calendar {float: left;width: 100%;}
