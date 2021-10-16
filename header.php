@@ -59,6 +59,6 @@
     <!-- menú -->
 
     <!-- blog -->
-    <div class="container">
+    <div class="container-fluid">
       <!-- <h2 class="my-5 text-center text-primary">Mi blog personal</h2> -->
       <hr />
